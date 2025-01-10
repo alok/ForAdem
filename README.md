@@ -30,3 +30,4 @@ lake update && lake build
 lake exe cache get
 ```
 
+ask for help on zulip
